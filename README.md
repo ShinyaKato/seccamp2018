@@ -1,6 +1,9 @@
 # seccamp2018
 
-Simple C compiler developed by @ShinyaKato
+Simple C compiler developed by @ShinyaKato in Security Camp 2018
+
+このリポジトリは純粋にセキュリティ・キャンプ2018の成果物を残しておくためのものです。  
+機能追加などは　https://github.com/ShinyaKato/sk2cc　で続けています。
 
 ## build
 
